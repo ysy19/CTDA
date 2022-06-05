@@ -4,7 +4,7 @@
 ## Usage
 ### 1. Clone this repo
 ```
-git clone https://github.com/ysy19/CTDA
+git clone https://github.com/ysy19/CTDA.
 ```
 ### 2. Download the pre-trained model basnet.pth from [GoogleDrive](https://drive.google.com/open?id=1s52ek_4YTDRt_EOkx1FS53u-vJa0c4nu)
 
