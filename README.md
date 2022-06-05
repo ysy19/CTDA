@@ -1,5 +1,5 @@
 # CTDA
-Controlling Background Transparency for Data Augmentation
+'Controlling Background Transparency for Data Augmentation' 구현 코드입니다.
 
 ## Usage
 ### 1. Clone this repo
