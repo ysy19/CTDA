@@ -1,7 +1,7 @@
 # CTDA
 ### 'Controlling Background Transparency for Data Augmentation' 구현 코드입니다.
 
-## Usage
+## ○ Usage
 1. Clone this repo
 ```
 git clone https://github.com/ysy19/CTDA.
