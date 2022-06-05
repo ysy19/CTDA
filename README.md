@@ -1,5 +1,5 @@
 # CTDA
-## 'Controlling Background Transparency for Data Augmentation' 구현 코드입니다.
+### 'Controlling Background Transparency for Data Augmentation' 구현 코드입니다.
 
 ## Usage
 ### 1. Clone this repo
@@ -11,7 +11,7 @@ git clone https://github.com/ysy19/CTDA.
 ### 3. Download the data which you want : 'ImageNet' or 'Caltech101'
 
 ### 4.
-#### 4.1 Imagenet 
+##### 4.1 Imagenet 
 -  Cd to the directory 'BASNet'
 -  Cd to the directory 'ImageNet_train'
 -  Run the masking and making background deleted image process by command : 
@@ -23,7 +23,7 @@ python masking.py
 python train.py
 '''
 
-#### 4.1 Caltech101 
+##### 4.1 Caltech101 
 -  Cd to the directory 'BASNet'
 -  Cd to the directory 'Caltech101_train'
 -  Run the masking and making background deleted image process by command : '''python masking_101.py'''
