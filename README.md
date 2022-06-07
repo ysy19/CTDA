@@ -15,13 +15,13 @@ git clone https://github.com/ysy19/CTDA.
 -  Cd to the directory 'BASNet'
 -  Cd to the directory 'ImageNet_train'
 -  Run the masking and making background deleted image process by command : 
-'''
+```
 python masking.py
-'''
+```
 -  Run training process by command : 
-'''
+```
 python train.py
-'''
+```
 
 4.1 Caltech101 
 -  Cd to the directory 'BASNet'
