@@ -27,13 +27,13 @@ python train.py
 -  Cd to the directory 'BASNet'
 -  Cd to the directory 'Caltech101_train'
 -  Run the masking and making background deleted image process by command : 
-'''
+```
 python masking_101.py
-'''
+```
 -  Run training process by command : 
-'''
+```
 python train_101.py
-'''
+```
 
 ## ○ 참고문서
 - BASNet 'https://github.com/xuebinqin/BASNet'
