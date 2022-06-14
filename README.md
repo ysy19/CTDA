@@ -9,17 +9,18 @@
 
 # Result 1) Images
 ![image](https://user-images.githubusercontent.com/69154579/173506882-2e6fce0c-99e6-4ff0-9016-5e7fe4c72759.png)
-![image](https://user-images.githubusercontent.com/69154579/173506898-29047643-0139-4c81-8641-07fcc539709a.png)
+ImageNet 투명도 조정 이미지 생성결과. 왼쪽 상단 투명도 10%부터 오른쪽 하단 투명도 90%.
 
+![image](https://user-images.githubusercontent.com/69154579/173506898-29047643-0139-4c81-8641-07fcc539709a.png)
+Caltech101 투명도 조정 이미지 생성결과. 왼쪽 상단 투명도 10%부터 오른쪽 하단 투명도 90%.
 
 # Result 2) Experiments
 1. Caltech101 dataset 투명도 이미지 정확도
+![image](https://user-images.githubusercontent.com/69154579/173506552-64565b9d-153d-4d91-b463-ffe6c92b2405.png)
+Test Top-1 Accuracy
 
-- ![image](https://user-images.githubusercontent.com/69154579/173506552-64565b9d-153d-4d91-b463-ffe6c92b2405.png)
-ImageNet 투명도 조정 이미지 생성결과. 왼쪽 상단 투명도 10%부터 오른쪽 하단 투명도 90%.
-
-- ![image](https://user-images.githubusercontent.com/69154579/173506609-bf70bb17-5d72-43ea-bf27-b1054633319f.png)
-Caltech101 투명도 조정 이미지 생성결과. 왼쪽 상단 투명도 10%부터 오른쪽 하단 투명도 90%.
+![image](https://user-images.githubusercontent.com/69154579/173506609-bf70bb17-5d72-43ea-bf27-b1054633319f.png)
+Test Top-5 Accuracy
 
 2. ImageNet dataset 투명도 이미지 정확도
 ![image](https://user-images.githubusercontent.com/69154579/173506657-84f6c668-01ab-48ac-8e74-093a1caf3898.png)
