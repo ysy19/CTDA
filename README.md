@@ -16,6 +16,7 @@ Caltech101 투명도 조정 이미지 생성결과. 왼쪽 상단 투명도 10%�
 
 # Result 2) Experiments
 1. Caltech101 dataset 투명도 이미지 정확도
+
 ![image](https://user-images.githubusercontent.com/69154579/173506552-64565b9d-153d-4d91-b463-ffe6c92b2405.png)
 Test Top-1 Accuracy
 
@@ -23,9 +24,12 @@ Test Top-1 Accuracy
 Test Top-5 Accuracy
 
 2. ImageNet dataset 투명도 이미지 정확도
-![image](https://user-images.githubusercontent.com/69154579/173506657-84f6c668-01ab-48ac-8e74-093a1caf3898.png)
-![image](https://user-images.githubusercontent.com/69154579/173506666-1415e609-2a0c-4036-ba81-054ec2f81db8.png)
 
+![image](https://user-images.githubusercontent.com/69154579/173506657-84f6c668-01ab-48ac-8e74-093a1caf3898.png)
+Test Top-1 Accuracy
+
+![image](https://user-images.githubusercontent.com/69154579/173506666-1415e609-2a0c-4036-ba81-054ec2f81db8.png)
+Test Top-5 Accuracy
 
 ## ○ Usage
 1. Clone this repo
